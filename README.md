@@ -23,12 +23,12 @@
 
 ## Bonus
 
-- [Code.org](https://code.org/)
-- [CodeCombat](https://codecombat.com/)
-- [Seré Ingeniera](https://github.com/oslugr/2017sereingeniera)
-- [Krita](https://krita.org/en/)
-- [Gimp](https://www.gimp.org/)
+- [Code.org](https://code.org/) (Referencia obligada: Montones de recursos e ideas)
+- [CodeCombat](https://codecombat.com/) Aprender a programar jugando
+- [Seré Ingeniera](https://github.com/oslugr/2017sereingeniera) (para ver ejemplos de fichas de proyecto)
+- [Krita](https://krita.org/en/) 
+- [Gimp](https://www.gimp.org/) Retoque fotográfico
 - [make 8 bit art](https://make8bitart.com/) - Herramienta de dibujo usada en el anterior campus.
-- [Inkscape](https://inkscape.org/en/)
+- [Inkscape](https://inkscape.org/en/) Dibujo vectorial
 
 
