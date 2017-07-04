@@ -12,12 +12,23 @@
 
 ## Segundo día
 
+### Scratch
+
 - [Scratch](https://scratch.mit.edu)
 - [scratch help](https://scratch.mit.edu/help/)
+- [Manual Scratch (PDF)](http:cdn.scratch.mit.edu/scratchr2/static/__a1d7466d7c597881e31fc0bbf25e80d3__/pdfs/help/Getting-Started-Guide-Scratch2.pdf)
+- [FAQ](https/scratch.mit.edu/info/faq)
+- [Tarjetas](https://scratch.mit.edu/info/cards)
+- [Videotutoriales](htps//scratch.mit.edu/help/videos/)
+- [Foros](https://scratch.mit.edu/discuss/)
+
+
+### Python
+
 - [Introducción a Python](http://www.psicobyte.com/descargas/taller_python.pdf)
+- [Ejemplos para Introducción a Python](http://www.psicobyte.com/descargas/ejemplos_taller_python.zip)
 - [Python (mi libro)](https://www.amazon.es/Phyton-HINOJOSA-GUTIERREZ-ANGEL-PABLO/dp/8499646115/ref=sr_1_1?ie=UTF8&qid=1475231910&sr=8-1&keywords=python+paso+a+paso)
 - [Python](https://www.python.org/)
-- [Ejemplos para Introducción a Python](http://www.psicobyte.com/descargas/ejemplos_taller_python.zip)
 
 ## Bonus
 
