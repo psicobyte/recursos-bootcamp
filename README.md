@@ -18,14 +18,14 @@
 - [Python (mi libro)](https://www.amazon.es/Phyton-HINOJOSA-GUTIERREZ-ANGEL-PABLO/dp/8499646115/ref=sr_1_1?ie=UTF8&qid=1475231910&sr=8-1&keywords=python+paso+a+paso)
 - [Python](https://www.python.org/)
 - [Ejemplos para Introducción a Python](http://www.psicobyte.com/descargas/ejemplos_taller_python.zip)
-- [Mecánicas de juego](https://es.slideshare.net/tongoxcore/7-mecnicas-de-juego)
-- [Lenguajes del videojuego](http://www.intothegames.com/los-lenguajes-del-videojuego/)
 
 ## Bonus
 
 - [Code.org](https://code.org/) (Referencia obligada: Montones de recursos e ideas)
 - [CodeCombat](https://codecombat.com/) Aprender a programar jugando
 - [Seré Ingeniera](https://github.com/oslugr/2017sereingeniera) (para ver ejemplos de fichas de proyecto)
+- [Mecánicas de juego](https://es.slideshare.net/tongoxcore/7-mecnicas-de-juego)
+- [Lenguajes del videojuego](http://www.intothegames.com/los-lenguajes-del-videojuego/)
 - [Krita](https://krita.org/en/) 
 - [Gimp](https://www.gimp.org/) Retoque fotográfico
 - [make 8 bit art](https://make8bitart.com/) - Herramienta de dibujo usada en el anterior campus.
