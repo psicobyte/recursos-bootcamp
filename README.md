@@ -1,5 +1,12 @@
 # recursos-bootcamp
 
+## Proyectos del BootCamp
+
+Proyectos realizados ddurante el BootCamp
+
+- [EmocioDado](https://github.com/albala5/EmocioDado)
+
+
 ## Primer día
 
 - [Telegram](https://telegram.org/)
@@ -41,5 +48,6 @@
 - [Gimp](https://www.gimp.org/) Retoque fotográfico
 - [make 8 bit art](https://make8bitart.com/) - Herramienta de dibujo usada en el anterior campus.
 - [Inkscape](https://inkscape.org/en/) Dibujo vectorial
+
 
 
