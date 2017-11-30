@@ -10,6 +10,8 @@ Proyectos realizados ddurante el BootCamp
 ## Primer día
 
 
+- [Blog del proyecto](https://computing4life.github.io/)
+- [Blog del proyecto (código)](https://github.com/computing4life/computing4life.github.io)
 - [Pensamiento computacional I](http://formacion.educalab.es/pluginfile.php/43801/mod_imscp/content/7/qu_es_el_pensamiento_computacional.html)
 - [Pensamiento computacional II](https://programamos.es/que-es-el-pensamiento-computacional/)
 - [Pensamiento computacional - (vídeo)](https://www.youtube.com/watch?v=velTSJ6Ogrs)
