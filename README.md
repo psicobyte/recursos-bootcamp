@@ -9,6 +9,10 @@ Proyectos realizados ddurante el BootCamp
 
 ## Primer día
 
+
+- [Pensamiento computacional I](http://formacion.educalab.es/pluginfile.php/43801/mod_imscp/content/7/qu_es_el_pensamiento_computacional.html)
+- [Pensamiento computacional II](https://programamos.es/que-es-el-pensamiento-computacional/)
+- [Pensamiento computacional - (vídeo)](https://www.youtube.com/watch?v=velTSJ6Ogrs)
 - [Telegram](https://telegram.org/)
 - [Telegram Web](https://web.telegram.org/#/login)
 - [GitHub](https://github.com/)
